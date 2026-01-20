@@ -30,3 +30,5 @@ gibi sorulara cevap bulmamızı sağlar.
 
 Bildiğim kadarıyla bu kadarını yapabildim. Saatlik gecikme(lag) eklemeye çalıştım fakat o değeri nasıl kullanacağımı bilemedim bu yüzden bu aşamada bıraktım.
 
+Kod içeriğimde çok fazla deneme var grafik görme açısından, veriyi analiz etme/yorumlama açısından biraz karışık bir kod düzeni. Yaptığım şeyleri (modele verimli olan işlemleri (veri temizleme, eğitme gibi)) hepsini açıklamaya çalıştım. Son haftalarda derslerde katılım sağlayamadığım için (alttan dersimle çakışıyordu) daha çok veri temizleme kısmını yapabildim aynı zamanda pivot tablonun pratiğini değil ama mantığını oturttum. 
+
